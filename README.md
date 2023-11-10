@@ -38,3 +38,17 @@
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://wwww.google.com)
 
 ![푸바오](./asset/panda.jpg)
+
+### 인라인 (inline) 코드 강조 
+`백티1개`는 `인라인 코드 강조`를 의미한다.
+
+```java
+   public class exam {
+      public static void main (string[] args){
+          system.out.printin("exam");
+   }
+}
+```
+
+
+
